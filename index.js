@@ -1,5 +1,5 @@
-function recover() {
-  return 0;
+function drink() {
+  return "drink a cup of tea";
 }
 
-module.exports = recover;
+module.exports = drink;
